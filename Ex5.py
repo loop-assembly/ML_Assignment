@@ -1,5 +1,4 @@
-message = 'It was a bright cold day in April, ' \
-          'and the clocks were striking thirteen.'
+message = 'It was a bright cold day in April, and the clocks were striking thirteen.'
 
 {'I': 1, 't': 6, ' ': 13, 'w': 2, 'a': 4, 's': 3, 'b': 1, 'r': 5,
  'i': 6, 'g': 2, 'h': 3,
